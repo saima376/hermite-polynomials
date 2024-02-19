@@ -1,1 +1,1 @@
-# hermite-polynomials
+# Hermite-polynomials
